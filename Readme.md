@@ -1,4 +1,4 @@
-# Text Corpus Creator
+# Word Corpus Creator
 
 This tool can be used to create a word corpus from locally available documents.Word Corpus are required to build word embeddings for certain Natural Language Processing tasks.
 This tool will convert the documents present in the `documents` folder into a single clean txt file that can be then passed to a word vector generator such as [GloVe](https://github.com/stanfordnlp/GloVe) created by Stanford.
